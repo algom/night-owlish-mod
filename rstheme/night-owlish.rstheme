@@ -31,10 +31,10 @@
   border: 1px solid #2e2040;
 }  
 .ace_marker-layer .ace_active-line {
-	background: #d5dce1;
+	background: #010E17;
 }  
 .ace_gutter-active-line {
-	background-color: #d5dce1;
+	background-color: #010E17;
 }  
 .ace_marker-layer .ace_selected-word {
 	border: 1px solid rgba(95, 126, 151, 0.47);
@@ -129,7 +129,7 @@
   color: #7fdbca;
 } 
 .nocolor.ace_editor .ace_line span {
-  color: #6C7A89 !important;
+  color: #d6deeb !important;
 } 
 .ace_bracket {
   margin: 0 !important;
